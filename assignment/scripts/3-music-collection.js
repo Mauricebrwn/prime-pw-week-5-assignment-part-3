@@ -59,10 +59,12 @@ function showCollection() {
     
 }
 showCollection();
+
 let array = [];
 function findByArtist() {
     for (let i=0; i<collection.length; i++){
     if (artist === artist) {
-        
+        findByArtist.push(array);
     }
+}
 }
